@@ -20,9 +20,11 @@ People can connect with there smartphone to the wireless access point in the Nod
 
 - Change Hostname and SSID in business_card.ino
 
-- Upload the
+- Upload the data files using SPIFFS Upload tool
 
 - Upload the business_card.ino to your NodeMCU
+
+- Done
 
 ## Demo:
 
