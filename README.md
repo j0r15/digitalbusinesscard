@@ -1,7 +1,5 @@
 # Digital Business card
 
-![](https://jrsvs.nl/bl-content/uploads/businesscardsmaller.gif)
-
 Using a NodeMCU to create a digital business card.
 
 - Created using a access point and a captive portal.
