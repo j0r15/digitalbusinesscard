@@ -1,8 +1,6 @@
 # Digital Business card
 
-<img src="https://jrsvs.nl/bl-content/uploads/businesscardsmaller.gif" />
-
-<iframe width="560" height="315" src="https://jrsvs.nl/bl-content/uploads/businesscardsmaller.gif" frameborder="0"></iframe>
+![alt text](https://jrsvs.nl/bl-content/uploads/businesscardsmaller.gif)
 
 Using a NodeMCU to create a digital business card.
 
