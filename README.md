@@ -1,6 +1,6 @@
 # Digital Business card
 
-<img src="https://jrsvs.nl/bl-content/uploads/businesscardsmaller.gif" alt="">
+<img src="https://jrsvs.nl/bl-content/uploads/businesscardsmaller.gif" />
 
 Using a NodeMCU to create a digital business card.
 
@@ -16,3 +16,7 @@ People can connect with there smartphone to the wireless access point in the Nod
 - Change Hostname and SSID in business_card.ino
 
 - Upload the business_card.ino to your NodeMCU
+
+## Demo:
+
+[https://jrsvs.nl/digital-business-card]
