@@ -9,7 +9,7 @@ People can connect with there smartphone to the wireless access point in the Nod
 
 ## Installation:
 
-- Create a little website with your personal information like mine
+- Create a little website with your personal information (must be in html)
 
 - Change Hostname and SSID in business_card.ino
 
