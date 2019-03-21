@@ -10,7 +10,7 @@ People can connect with there smartphone to the wireless access point in the Nod
 ## Installation:
 
 - Create a little website with your personal information (must be in html) and put it in a "data" folder
-  - your tree looks like this:
+  - Your project tree looks like this:
     - business_card
       - data
         - index.html
