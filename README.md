@@ -5,8 +5,7 @@ Using a NodeMCU to create a digital business card.
 - Created using a access point and a captive portal.
 
 ## Usage:
-People that want your business card, get there smartphone and connect to the wifi (wireless access point) of the NodeMCU and enter (automatically) the captive portal and screenshot the business card.
-
+People that want your business card, get there smartphone and connect to the wifi (wireless access point) of the NodeMCU and enter (automatically) the captive portal and screenshot the business card. They will see a small website that represents as your business card.
 ## Installation:
 
 - Create a little website with your personal information (must be in html) and put it in a "data" folder
