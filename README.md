@@ -1,6 +1,6 @@
 # Digital Business card
 
-Using a NodeMCU to create a digital business card.
+Using a NodeMCU with AP and captive portal to create a digital business card.
 
 - Created using a access point and a captive portal.
 
